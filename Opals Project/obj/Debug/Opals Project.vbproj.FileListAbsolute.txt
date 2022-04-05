@@ -1,0 +1,28 @@
+E:\VB2017\Chap12\Opals Solution\Opals Project\bin\Debug\Opals.mdf
+E:\VB2017\Chap12\Opals Solution\Opals Project\bin\Debug\Opals_log.ldf
+E:\VB2017\Chap12\Opals Solution\Opals Project\bin\Debug\Opals Project.exe.config
+E:\VB2017\Chap12\Opals Solution\Opals Project\bin\Debug\Opals Project.exe
+E:\VB2017\Chap12\Opals Solution\Opals Project\bin\Debug\Opals Project.pdb
+E:\VB2017\Chap12\Opals Solution\Opals Project\bin\Debug\Opals Project.xml
+E:\VB2017\Chap12\Opals Solution\Opals Project\obj\Debug\Opals Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap12\Opals Solution\Opals Project\obj\Debug\Opals_Project.frmMain.resources
+E:\VB2017\Chap12\Opals Solution\Opals Project\obj\Debug\Opals_Project.Resources.resources
+E:\VB2017\Chap12\Opals Solution\Opals Project\obj\Debug\Opals Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap12\Opals Solution\Opals Project\obj\Debug\Opals Project.exe
+E:\VB2017\Chap12\Opals Solution\Opals Project\obj\Debug\Opals Project.xml
+E:\VB2017\Chap12\Opals Solution\Opals Project\obj\Debug\Opals Project.pdb
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals Project.vbproj.AssemblyReference.cache
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals Project.vbproj.SuggestedBindingRedirects.cache
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals_Project.frmMain.resources
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals_Project.Resources.resources
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals Project.vbproj.GenerateResource.cache
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals Project.vbproj.CoreCompileInputs.cache
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals Project.exe
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals Project.xml
+W:\VB2017\Opals Solution\Opals Project\obj\Debug\Opals Project.pdb
+W:\VB2017\Opals Solution\Opals Project\bin\Debug\Opals.mdf
+W:\VB2017\Opals Solution\Opals Project\bin\Debug\Opals_log.ldf
+W:\VB2017\Opals Solution\Opals Project\bin\Debug\Opals Project.exe.config
+W:\VB2017\Opals Solution\Opals Project\bin\Debug\Opals Project.exe
+W:\VB2017\Opals Solution\Opals Project\bin\Debug\Opals Project.pdb
+W:\VB2017\Opals Solution\Opals Project\bin\Debug\Opals Project.xml
